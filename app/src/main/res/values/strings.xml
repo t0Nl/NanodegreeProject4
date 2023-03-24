@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Location Reminders</string>
     <string name="error_happened">Error happened</string>
     <string name="retry">Retry</string>
@@ -9,9 +9,10 @@
     <string name="save">Save</string>
     <string name="reminder_saved">Reminder Saved !</string>
     <string name="logout">Logout</string>
-    <string name="welcome_to_the_location_reminder_app">Welcome to the location reminder app</string>
+    <string name="welcome_to_the_location_reminder_app">Welcome to the location reminder app, please authenticate to access the app\'s features</string>
     <string name="login">Login</string>
     <string name="title_activity_maps">Map</string>
+    <string name="default_map" tools:ignore="ExtraTranslation">Default Map</string>
     <string name="normal_map">Normal Map</string>
     <string name="hybrid_map">Hybrid Map</string>
     <string name="satellite_map">Satellite Map</string>
