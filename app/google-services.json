@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "52523195331",
+    "project_id": "kotlin-nanodegree-project-3",
+    "storage_bucket": "kotlin-nanodegree-project-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52523195331:android:67e2ddcbd4d8990bfd3b76",
+        "android_client_info": {
+          "package_name": "com.udacity.project4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52523195331-qdj01567t314fbdmdbaq2j7ke6ls9fq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udacity.project4",
+            "certificate_hash": "b23297a64a4b5c4b5f1f48632cb9f0f84cceda7c"
+          }
+        },
+        {
+          "client_id": "52523195331-hat1kvjqck5usp6qi3320l89fh6t396g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADUX93CwvhdhFJjkDLojfnlWl2Eo4BIps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52523195331-hat1kvjqck5usp6qi3320l89fh6t396g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
